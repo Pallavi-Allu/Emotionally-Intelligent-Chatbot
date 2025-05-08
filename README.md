@@ -8,8 +8,8 @@ Useful for patients dealing with anxiety, health fears, or stress.
 
 * **Python**
 * Uses an AI API (Groq API with Llama 3 model)
-* Frontend: *(Optional: mention React if you used)*
-* Backend: *(Optional: mention Flask if you used)*
+* Frontend: (React)
+* Backend: (Flask)
 * Stores chat history using **Supabase** database
 
 ## 💡 Features
