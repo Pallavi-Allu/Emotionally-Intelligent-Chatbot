@@ -46,13 +46,4 @@ Useful for patients dealing with anxiety, health fears, or stress.
 I’m **Pallavi**, a BTech Computer Science graduate, passionate about Python development and creating tech solutions that help people.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/allu-pallavi/).
 
----
-
-### ✅ **Instructions:**
-
-1. Copy the above text
-2. Go to your GitHub repository
-3. Click **"Add file" → "Create new file" → Name it `README.md`**
-4. Paste the content → Scroll down → Click **"Commit new file"**
-
 
